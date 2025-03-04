@@ -3,7 +3,7 @@ software for a remote Stick for gliders, similar to the Stefly or xcNav remote S
 working with XCSOAR.
 
 Most of the work ist already published by Stefan Langer (stefly remote stick) and Markus Immig (xcnav remote stick).
-Here, it's baked into a common software with best of both, IMHO.
+Here, their work is just baked into a common software with best of both, IMHO.
 
 The Stick connects to an Android device by USB cable.
 It implements Click, doubleClick and longClick on every button (except up/down/left/right).
